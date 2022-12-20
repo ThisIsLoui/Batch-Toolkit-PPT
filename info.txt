@@ -1,8 +1,9 @@
+//注意，文档中的所有bool都必须要用小写！！
 最新版本号：<LatestVersion>1.0.1</LatestVersion>
 最新版本是否强制更新(指如果用户点击了取消，就强制把软件关掉，用于紧急更新时使用)：<LatestVersionMustUpdate>false</LatestVersionMustUpdate>
-最新版本更新说明：<LatestBriefIntroduction>发行说明：修复若干BUG</LatestBriefIntroduction>
-最新版本下载地址：(以\结尾，与下面一项一起构成下载地址)<LatestVersionDownload>这里是下载地址哈哈哈</LatestVersionDownload>
-最新版本更新文件的名称（必须是压缩包的形式）：<LatestVersionFileName></LatestVersionFileName>
+最新版本更新说明：<LatestBriefIntroduction>发行说明：这是一次测试</LatestBriefIntroduction>
+最新版本下载地址：(以/结尾，与下面一项一起构成下载地址)<LatestVersionDownload>https://gitee.com/hizly/Batch-Toolkit-PPT/raw/master/</LatestVersionDownload>
+最新版本更新文件的名称（必须是zip压缩包的形式）：<LatestVersionFileName>123456.zip</LatestVersionFileName>
 
 是否有弹窗通知：<HasPopUpNotification>false</HasPopUpNotification>
 弹窗通知内容：<PopUpNotificationContent>紧急提醒，阿萨德哈拉少的看法和就好啦实地放流动商贩赫拉客户水电费，请您知悉</PopUpNotificationContent>
@@ -10,7 +11,7 @@
 登录注册等地址前缀(即api接口的前缀)：<UserOperationLink>http://license.batchtoolset.com/</UserOperationLink>
 VIP购买地址(程序会临时构造一个js自动将信息POST到这个地址以实现自动登录)：<BuyVIPLink>http://license.batchtoolset.com/ajax.php</BuyVIPLink>
 
-帮助文档的链接地址（来自语雀）：<HelpDocLink>https://www.yuque.com/u32886606/batchppt</HelpDocLink>
+帮助文档的链接地址（来自顶想云）：<HelpDocLink>https://l4rzzygrx7.k.topthink.com/@batchtoolset/</HelpDocLink>
 
 //以下功能尚未完善(因为目前没有必要，程序中的设置里有这一项也没有删掉)
 是否有用户中心通知(仅针对非VIP用户)：<HasUserCentreNotification>false</HasUserCentreNotification>
