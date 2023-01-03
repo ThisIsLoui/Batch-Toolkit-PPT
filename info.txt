@@ -2,7 +2,7 @@
 最新版本号：<LatestVersion>1.0.2</LatestVersion>
 最新版本是否强制更新(指如果用户点击了取消，就强制把软件关掉，用于紧急更新时使用)：<LatestVersionMustUpdate>true</LatestVersionMustUpdate>
 最新版本更新说明：<LatestBriefIntroduction>更新说明：<br>①修复进入“最终处理”页面时，软件会报错终止的问题<br>②优化软件界面对不同分辨率的适配<br>③其他细节优化</LatestBriefIntroduction>
-最新版本下载地址：(以/结尾，与下面一项一起构成下载地址)<LatestVersionDownload>https://www.batchtoolset.com/UPDATEFILES/</LatestVersionDownload>
+最新版本下载地址：(以/结尾，与下面一项一起构成下载地址)<LatestVersionDownload>http://www.batchtoolset.com/UPDATEFILES/</LatestVersionDownload>
 最新版本更新文件的名称（必须是zip压缩包的形式）：<LatestVersionFileName>update_1.0.2.zip</LatestVersionFileName>
 
 是否有弹窗通知：<HasPopUpNotification>false</HasPopUpNotification>
