@@ -1,12 +1,12 @@
 //注意，文档中的所有bool都必须要用小写！！
-最新版本号：<LatestVersion>1.0.1</LatestVersion>
-最新版本是否强制更新(指如果用户点击了取消，就强制把软件关掉，用于紧急更新时使用)：<LatestVersionMustUpdate>false</LatestVersionMustUpdate>
-最新版本更新说明：<LatestBriefIntroduction>发行说明：这是一次测试</LatestBriefIntroduction>
-最新版本下载地址：(以/结尾，与下面一项一起构成下载地址)<LatestVersionDownload>https://gitee.com/hizly/Batch-Toolkit-PPT/raw/master/</LatestVersionDownload>
-最新版本更新文件的名称（必须是zip压缩包的形式）：<LatestVersionFileName>123456.zip</LatestVersionFileName>
+最新版本号：<LatestVersion>1.0.2</LatestVersion>
+最新版本是否强制更新(指如果用户点击了取消，就强制把软件关掉，用于紧急更新时使用)：<LatestVersionMustUpdate>true</LatestVersionMustUpdate>
+最新版本更新说明：<LatestBriefIntroduction>更新说明：<br>①修复进入“最终处理”页面时，软件会报错终止的问题<br>②优化软件界面对不同分辨率的适配<br>③其他细节优化</LatestBriefIntroduction>
+最新版本下载地址：(以/结尾，与下面一项一起构成下载地址)<LatestVersionDownload>https://www.batchtoolset.com/UPDATEFILES/</LatestVersionDownload>
+最新版本更新文件的名称（必须是zip压缩包的形式）：<LatestVersionFileName>update_1.0.2.zip</LatestVersionFileName>
 
 是否有弹窗通知：<HasPopUpNotification>false</HasPopUpNotification>
-弹窗通知内容：<PopUpNotificationContent>紧急提醒，阿萨德哈拉少的看法和就好啦实地放流动商贩赫拉客户水电费，请您知悉</PopUpNotificationContent>
+弹窗通知内容：<PopUpNotificationContent>提醒：这是一次测试</PopUpNotificationContent>
 
 登录注册等地址前缀(即api接口的前缀)：<UserOperationLink>http://license.batchtoolset.com/</UserOperationLink>
 VIP购买地址(程序会临时构造一个js自动将信息POST到这个地址以实现自动登录)：<BuyVIPLink>http://license.batchtoolset.com/ajax.php</BuyVIPLink>
