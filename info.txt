@@ -1,10 +1,10 @@
 //V1.0.3及以后版本以弃用的
-最新版本是否强制更新：<LatestVersionMustUpdate>false</LatestVersionMustUpdate>
-最新版本更新说明：<LatestBriefIntroduction>更新说明：<br><a style="color:#ff4d4f"><b>由于自动更新目前不稳定，请勿直接点击下方按钮进行更新！</b></a><a href="https://lestore.lenovo.com/detail/L104469?origin=pcstore_copylink">请点击这里</a>进行手动下载更新！<br>①添加【转视频】、【转GIF】功能<br>②添加【母版专区】，丰富对母版的处理功能</LatestBriefIntroduction>
+最新版本是否强制更新：<LatestVersionMustUpdate>true</LatestVersionMustUpdate>
+最新版本更新说明：<LatestBriefIntroduction>更新说明：<br><a style="color:#ff4d4f"><b>由于自动更新目前不稳定，请勿直接点击下方按钮进行更新！</b></a><a href="https://lestore.lenovo.com/detail/L104558">请点击这里</a>进行手动下载更新！<br>①添加【转视频】、【转GIF】功能<br>②添加【母版专区】，丰富对母版的处理功能</LatestBriefIntroduction>
 
 
 //注意，文档中的所有bool都必须要用小写！！
-最新版本号：<LatestVersion>1.0.2</LatestVersion>
+最新版本号：<LatestVersion>1.0.3</LatestVersion>
 最新版本更新说明：<LatestBriefIntroduction_New>哈哈哈</LatestBriefIntroduction_New>
 最新版本下载地址：(以/结尾，与下面一项一起构成下载地址)<LatestVersionDownload>http://www.batchtoolset.com/</LatestVersionDownload>
 最新版本更新文件的名称（必须是zip压缩包的形式）：<LatestVersionFileName>update103.zip</LatestVersionFileName>
